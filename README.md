@@ -73,7 +73,8 @@ My Stats Stack:
 
 
 <p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cattes" alt="cattes" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cattes&theme=onedark&row=1&column=9" alt="cattes" /></a> 
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
