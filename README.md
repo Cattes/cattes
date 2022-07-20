@@ -112,6 +112,30 @@ My Stats Stack:
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg" alt="aws" width="40" height="40"/> </a> 
 
 
+
+<br>
+
+### 📺 Conference Talks
+
+<a href="https://www.youtube.com/watch?v=A9ngf-CUSq4" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/32700350/180054241-b4778789-4234-418f-b649-5920555b6151.png" alt="Performing Content: Can NLP and Deep Learning
+algorithms predict reader preferences?" /> </a> 
+<a href="https://machinelearningweek.eu/agenda/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/32700350/180054154-8deaa032-88e4-4000-9f71-1852f8a640dc.png" alt="Corona Community Pitch: Maps Matter – Realistic Hot Spot Detection Across Regional Boundaries" /> </a> 
+
+---
+
+### 📕 Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Pandas DataFrame Validation with Pydantic - Part 2](https://www.inwt-statistics.com/read-blog/pandas-dataframe-validation-with-pydantic-part-2.html)
+- [Pandas DataFrame Validation with Pydantic - Part 1](https://www.inwt-statistics.com/read-blog/pandas-dataframe-validation-with-pydantic.html)
+- [Python Christmas Decoration](https://www.inwt-statistics.com/read-blog/python-christmas-decoration.html)
+- [Marketing Mix Modeling - How Does Advertising Really Work?](https://www.inwt-statistics.com/read-blog/marketing-mix-modeling-how-does-advertising-really-work.html)
+
+<!-- BLOG-POST-LIST:END -->
+---
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sebastian-cattes" target="blank">Connect via LinkedIn</a>
