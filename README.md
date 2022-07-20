@@ -115,3 +115,5 @@ My Stats Stack:
 <a href="https://linkedin.com/in/sebastian-cattes" target="blank">Connect via LinkedIn</a>
 <a href="https://linkedin.com/in/sebastian-cattes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian-cattes" height="30" width="40" /></a>
 </p> 
+
+<!--- more icons (like the aws one) can be found here:https://simpleicons.org/ Just change the name href to https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[ICON SLUG].svg -->
