@@ -10,11 +10,7 @@
 
 I am a data scientist with a strong background in statistics and experience in software development of data products.
 
-
-My strength is my versatility
-* I have a strong statistics background through my economics master and my work experience
-* I have experience in software development, like working with CI/CD pipelines, cloud infrastructure and collaborative software development
-* I have gathered experience as a project owner and organizing teams of programmers
+I work as a Data Science Consultant and have gathered experience with a variety of industries and problems. I enjoy solving challenging problems and help companies to best utilize their data to achive their business goals.
 
 
 <hr>
@@ -23,7 +19,7 @@ My strength is my versatility
 <p align="center">
 
 
-My Tech Stack:
+### My Tech Stack:
 
 * R (Since 2013)
 * Python (Since 2017)
@@ -32,7 +28,7 @@ My Tech Stack:
 * AWS (S3, EC2, Lambda, Batch, Sagemaker, ...) (Since 2019)
 * Git, Docker, CI/CD (Jenkins, Github Action, CircleCI) (Since 2018)
 
-My Stats Stack:
+### My Stats Stack:
 
 * Univariate and multivariate time series analysis
 * Tree based methods (XGBoost, CatBoost, ...)
