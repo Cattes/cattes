@@ -114,6 +114,7 @@ I work as a Data Science Consultant and have gathered experience with a variety 
 
 ### 📺 Conference Talks
 
+<a href="https://machinelearningweek.eu/agenda/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/32700350/189936202-85f6a43c-af51-49af-9298-d1afd26c108e.jpg" alt="LEVERAGING NLP TO UNDERSTAND READER PREFERENCES FOR NEUE OSNABRÜCKER ZEITUNG (NOZ)" /> </a> 
 <a href="https://www.youtube.com/watch?v=A9ngf-CUSq4" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/32700350/180054241-b4778789-4234-418f-b649-5920555b6151.png" alt="Performing Content: Can NLP and Deep Learning
 algorithms predict reader preferences?" /> </a> 
 <a href="https://machinelearningweek.eu/agenda/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/32700350/180054154-8deaa032-88e4-4000-9f71-1852f8a640dc.png" alt="Corona Community Pitch: Maps Matter – Realistic Hot Spot Detection Across Regional Boundaries" /> </a> 
