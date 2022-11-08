@@ -8,7 +8,7 @@
 
 
 
-I am a data scientist with a strong background in statistics and experience in software development of data products.
+Data Scientist | Machine Learning Engineer | Software Developer | Econometrician 
 
 I work as a Data Science Consultant and have gathered experience with a variety of industries and problems. I enjoy solving challenging problems and help companies to best utilize their data to achive their business goals.
 
@@ -32,7 +32,7 @@ I work as a Data Science Consultant and have gathered experience with a variety 
 
 * Univariate and multivariate time series analysis
 * Tree based methods (XGBoost, CatBoost, ...)
-* Machine Learning / AI (ANN, CNN, LSTM, ...)
+* Machine Learning / AI (ANN, CNN, LSTM, TFT, ...)
 * NLP (Transformer, BERT)
 * Multivariate Statistics / Predictive Analytics (GAM), 
 * Bayesian Modelling ((R)STAN)
