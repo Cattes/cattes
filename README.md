@@ -8,7 +8,7 @@
 
 
 
-Data Scientist | Machine Learning Engineer | Software Developer | Econometrician 
+Senior Data Scientist | Machine Learning Engineer | Software Developer | Econometrician 
 
 I work as a Data Science Consultant and have gathered experience with a variety of industries and problems. I enjoy solving challenging problems and help companies to best utilize their data to achive their business goals.
 
