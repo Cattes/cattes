@@ -39,39 +39,6 @@ I work as a Data Science Consultant and have gathered experience with a variety 
 
 
 </p>
-<hr>
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="[https://github.com/anuraghazra/github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=cattes&theme=react&border=61dafb&hide_border=true)" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=cattes&theme=react&border=61dafb&hide_border=true" alt="cattes" />
-    </a>
-    <a href="https://github-readme-stats.vercel.app/api?username=Cattes&show_icons=true&theme=react&border_color=61dafb&hide_border=true" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Cattes&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Cattes&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cattes&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <a href="https://activity-graph.herokuapp.com/graph?username=Cattes&theme=react-dark&bg_color=20232a&hide_border=true">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Cattes&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  </a>
-</p>
-
-<hr>
-
-
-<p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cattes&theme=onedark&row=1&column=9" alt="cattes" /></a> 
-</p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -111,7 +78,38 @@ I work as a Data Science Consultant and have gathered experience with a variety 
 
 
 
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<p align=center>
+  <div align=center>
+    <a href="[https://github.com/anuraghazra/github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=cattes&theme=react&border=61dafb&hide_border=true)" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=cattes&theme=react&border=61dafb&hide_border=true" alt="cattes" />
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api?username=Cattes&show_icons=true&theme=react&border_color=61dafb&hide_border=true" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Cattes&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Cattes&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cattes&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <a href="https://activity-graph.herokuapp.com/graph?username=Cattes&theme=react-dark&bg_color=20232a&hide_border=true">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Cattes&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  </a>
+</p>
+
+<hr>
+
+
+<br>
+
+<p align="left"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cattes&theme=onedark&row=1&column=9" alt="cattes" /></a> 
+</p>
+
 
 ### 📺 Conference Talks
 
