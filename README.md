@@ -10,11 +10,11 @@
 
 Senior Data Scientist | Machine Learning Engineer | Software Engineer | Econometrician 
 
-I work as a Data Science Consultant and have gathered experience with a variety of industries and problems. I enjoy solving challenging problems and help companies to best utilize their data to achive their business goals.
+I work as a Data Science Consultant and have gathered experience with a variety of industries and projects. I enjoy solving challenging problems and help companies to best utilize their data to achive their business goals.
 
 
 <hr>
-<h2 align="center">🔥 Knowledge 🔥</h2>
+<h2 align="center"> Knowledge </h2>
 <br>
 <p align="center">
 
@@ -72,51 +72,33 @@ I work as a Data Science Consultant and have gathered experience with a variety 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-</p>
 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg" alt="aws" width="40" height="40"/> </a> 
+    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="azure" width="40" height="40"/> </a> 
 
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="[https://github.com/anuraghazra/github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=cattes&theme=react&border=61dafb&hide_border=true)" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=cattes&theme=react&border=61dafb&hide_border=true" alt="cattes" />
-    </a>
-    <a href="https://github-readme-stats.vercel.app/api?username=Cattes&show_icons=true&theme=react&border_color=61dafb&hide_border=true" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Cattes&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Cattes&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cattes&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <a href="https://activity-graph.herokuapp.com/graph?username=Cattes&theme=react-dark&bg_color=20232a&hide_border=true">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Cattes&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  </a>
+  
 </p>
+
 
 <hr>
 
 
-<br>
-
-<p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cattes&theme=onedark&row=1&column=9" alt="cattes" /></a> 
-</p>
-
-
 ### 📺 Conference Talks
 
-<a href="https://machinelearningweek.eu/agenda/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/32700350/189936202-85f6a43c-af51-49af-9298-d1afd26c108e.jpg" alt="LEVERAGING NLP TO UNDERSTAND READER PREFERENCES FOR NEUE OSNABRÜCKER ZEITUNG (NOZ)" /> </a> 
 <a href="https://www.youtube.com/watch?v=A9ngf-CUSq4" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/32700350/180054241-b4778789-4234-418f-b649-5920555b6151.png" alt="Performing Content: Can NLP and Deep Learning
 algorithms predict reader preferences?" /> </a> 
 <a href="https://machinelearningweek.eu/agenda/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/32700350/180054154-8deaa032-88e4-4000-9f71-1852f8a640dc.png" alt="Corona Community Pitch: Maps Matter – Realistic Hot Spot Detection Across Regional Boundaries" /> </a> 
+
+---
+
+
+### 🎙️ Podcasts (german language only)
+
+<a href="https://www.podbean.com/media/share/pb-taen7-13ce0fa" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/32700350/230996309-fbd9f186-4259-4d75-853f-79b1065700fd.png" alt="In Numbers We Trust - Der Data Science Podcast - #21: Machine Learning Operations (MLOps)" /> </a> 
+
+
+
+
 
 ---
 
